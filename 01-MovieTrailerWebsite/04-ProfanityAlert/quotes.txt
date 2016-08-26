@@ -1,0 +1,14 @@
+CF Users,
+
+In preparation for the upgrade of G1 and G2 to 1.6 and Diego, we will be performing maintenance to the underlying VMs in both environments.  This will cause all VMs to be recycled, one at a time. 
+ 
+Since all VMs will be recycled, your application instances will be recycled as well.  As long as you are running multiple instances of your application, impact will be minimal to none. 
+ 
+  G1 Maintenance: Thursday, 8/25 at 11PM EST
+  G2 Maintenance: Monday, 8/29 at 11PM EST
+ 
+This will bring us one step closer to supporting Diego on all CF environments!  If you have any questions about the maintenance, please reach out to us on Slack: https://cim.slack.com/messages/cloudfoundry/
+ 
+ 
+Thank you,
+Steel Cloud Engineering
